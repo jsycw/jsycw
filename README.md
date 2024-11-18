@@ -1,8 +1,6 @@
 # Hi there, I'm Jessy Clarissa Wijaya! 👋  
-🎓 **Third-year Computer Science Student** at BINUS University
-👩🏻‍💻 **Aspiring Web and Mobile App Developer** | Enthusiast of tech innovations and creative problem-solving  
-
-✨ Always curious, constantly learning, and passionate about crafting impactful solutions through code.  
+🎓 **Third-year Computer Science Student** at BINUS University  
+👩🏻‍💻 **Aspiring Web and Mobile App Developer** 
 
 ---
 
