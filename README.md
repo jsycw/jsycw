@@ -1,4 +1,4 @@
-# Hi there, I'm Jessy Clarissa Wijaya! 👋  
+# Hi there, I'm Jessy Clarissa! 👋  
 🎓 **Computer Science Student**   
 👩🏻‍💻 **Aspiring Web and Mobile App Developer** 
 
