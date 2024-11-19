@@ -1,5 +1,5 @@
 # Hi there, I'm Jessy Clarissa Wijaya! 👋  
-🎓 **Third-year Computer Science Student** at BINUS University  
+🎓 **Computer Science Student** 
 👩🏻‍💻 **Aspiring Web and Mobile App Developer** 
 
 ---
