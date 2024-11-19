@@ -1,5 +1,5 @@
 # Hi there, I'm Jessy Clarissa Wijaya! 👋  
-🎓 **Computer Science Student** 
+🎓 **Computer Science Student**   
 👩🏻‍💻 **Aspiring Web and Mobile App Developer** 
 
 ---
